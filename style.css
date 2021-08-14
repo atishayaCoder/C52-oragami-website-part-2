@@ -1,0 +1,167 @@
+.head{
+      
+    background-color: #7BD9DB;
+    border: solid;
+    border-color: darkcyan;
+    font-family: cursive;
+     }
+  
+
+.menu{
+  display: flex;
+     justify-content: space-between;
+     padding: 15px;
+     font-size: 20px;
+     font-family: sans-serif;
+     font-weight: 400;
+     color: #000000;
+}
+
+.img{
+  border: none;
+}
+  
+  .grid {
+    display: flex;
+    justify-content:space-around;
+    flex-direction: row;
+    text-align: left;
+    flex-wrap: wrap;
+  }
+  
+  .camel {
+    border: 1px solid #FFCAA8;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#E8E5E4;
+    border-width: 6px;
+   
+  }
+  
+  
+  .chameleon {
+    border: 1px solid #FFCAA8;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#E8E5E4;
+    border-width: 6px;
+  }
+  
+  .cicada {
+    border: 1px solid #FFCAA8;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#E8E5E4;
+    border-width: 6px;
+  }
+  
+  .panda {
+    border: 1px solid #FFCAA8;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#E8E5E4;
+    border-width: 6px;
+  }
+  
+  .pigeon {
+    border: 1px solid #FFCAA8;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#E8E5E4;
+    border-width: 6px;
+  }
+  
+  .teddy {
+    border: 1px solid #FFCAA8;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#E8E5E4;
+    border-width: 6px;
+  }
+
+  .youtube{
+    border: 1px solid #FFCAA8;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    width: 400px;
+    height: 250px;
+    padding: 50px;
+    background-color:#E8E5E4;
+    border-width: 6px;
+  }
+
+  .instagram{
+    border: 1px solid #FFCAA8;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    width: 400px;
+    height: 250px;
+    padding: 50px;
+    background-color:#E8E5E4;
+    border-width: 6px;
+  }
+  .camel:hover
+  {
+    opacity: 1;
+    transform: scale(1.05);
+  }
+
+  .chameleon:hover
+  {
+    opacity: 1;
+    transform: scale(1.05);
+  }
+
+  .cicada:hover
+  {
+    opacity: 1;
+    transform: scale(1.05);
+  }
+
+  .panda:hover
+  {
+    opacity: 1;
+    transform: scale(1.05);
+  }
+
+  .pigeon:hover
+  {
+    opacity: 1;
+    transform: scale(1.05);
+  }
+
+  .teddy:hover
+  {
+    opacity: 1;
+    transform: scale(1.05);
+  }
+
+  .youtube:hover
+  {
+    opacity: 1;
+    transform: scale(1.05);
+  }
+
+  .instagram:hover
+  {
+    opacity: 1;
+    transform: scale(1.05);
+  }
