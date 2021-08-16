@@ -21,7 +21,15 @@
   border: none;
 }
   
-  .grid {
+  .grid4 {
+    display: flex;
+    justify-content:space-evenly;
+    flex-direction: row;
+    text-align: left;
+    flex-wrap: wrap;
+  }
+
+  .grid2 {
     display: flex;
     justify-content:space-evenly;
     flex-direction: row;
